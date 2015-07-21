@@ -1,0 +1,19 @@
+{
+  "name": "GeoRequest",
+  "label": "Δημιουργία Αιτήματος",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "0.0.2",
+  "author": "stefanos",
+  "description": "Δημιουργία Αιτήματος",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": true,
+    "hasLocale": true,
+    "hasStyle": true,
+    "hasConfig": true,
+    "hasUIFile": true
+  }
+}
